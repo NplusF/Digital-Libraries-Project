@@ -97,9 +97,7 @@ bootswatch: # leave blank or comment out for plain bootstrap
 base-font-size: 1.2em
 text-color: "#191919"
 link-color: "#0d6efd"
-base-font-family: # comment out for bootstrap defaults. e.g. Roboto
-font-cdn: "https://googleapis.com"
-base-font-family: "'Bebas Neue', sans-serif"
+base-font-family: "Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif"
 
 # THEME ICONS [optional!]
 # cb-gh uses Bootstrap Icons, https://icons.getbootstrap.com/
