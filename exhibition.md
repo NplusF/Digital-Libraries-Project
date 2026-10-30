@@ -7,4 +7,4 @@ permalink: /exhibition.html
 # Exhibition
 
 Explore the Plural: Artists of Latin America exhibition
-and the artworks presented
+and the artworks presented.
