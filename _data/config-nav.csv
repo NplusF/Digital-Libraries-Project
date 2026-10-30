@@ -1,1 +1,9 @@
-display_name,stub,dropdown_parent Home,/ Discussion,/discussion.html Exhibition,/exhibition.html Connection,/connection.html Browse,/browse.html Subjects,/subjects.html Data,/data.html About,/about.html
+display_name,stub,dropdown_parent
+Home,/
+Discussion,/discussion.html,
+Exhibition,/exhibition.html,
+Connection,/connection.html,
+Browse,/browse.html,
+Subjects,/subjects.html
+Data,/data.html,
+About,/about.html,
