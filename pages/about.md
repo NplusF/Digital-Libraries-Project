@@ -8,41 +8,12 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
-
-## About CollectionBuilder-Sheets
-
-This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
-
-Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
-This enables active collaboration to prototype collections with minimal set up.
-
-<button class="btn btn-lg btn-success" data-bs-toggle="modal" data-bs-target="#cbSetUpModal">
-    <svg class="bi icon-sprite" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
-        <path d="M8 4.754a3.246 3.246 0 1 0 0 6.492 3.246 3.246 0 0 0 0-6.492zM5.754 8a2.246 2.246 0 1 1 4.492 0 2.246 2.246 0 0 1-4.492 0z"/>
-        <path d="M9.796 1.343c-.527-1.79-3.065-1.79-3.592 0l-.094.319a.873.873 0 0 1-1.255.52l-.292-.16c-1.64-.892-3.433.902-2.54 2.541l.159.292a.873.873 0 0 1-.52 1.255l-.319.094c-1.79.527-1.79 3.065 0 3.592l.319.094a.873.873 0 0 1 .52 1.255l-.16.292c-.892 1.64.901 3.434 2.541 2.54l.292-.159a.873.873 0 0 1 1.255.52l.094.319c.527 1.79 3.065 1.79 3.592 0l.094-.319a.873.873 0 0 1 1.255-.52l.292.16c1.64.893 3.434-.902 2.54-2.541l-.159-.292a.873.873 0 0 1 .52-1.255l.319-.094c1.79-.527 1.79-3.065 0-3.592l-.319-.094a.873.873 0 0 1-.52-1.255l.16-.292c.893-1.64-.902-3.433-2.541-2.54l-.292.159a.873.873 0 0 1-1.255-.52l-.094-.319zm-2.633.283c.246-.835 1.428-.835 1.674 0l.094.319a1.873 1.873 0 0 0 2.693 1.115l.291-.16c.764-.415 1.6.42 1.184 1.185l-.159.292a1.873 1.873 0 0 0 1.116 2.692l.318.094c.835.246.835 1.428 0 1.674l-.319.094a1.873 1.873 0 0 0-1.115 2.693l.16.291c.415.764-.42 1.6-1.185 1.184l-.291-.159a1.873 1.873 0 0 0-2.693 1.116l-.094.318c-.246.835-1.428.835-1.674 0l-.094-.319a1.873 1.873 0 0 0-2.692-1.115l-.292.16c-.764.415-1.6-.42-1.184-1.185l.159-.291A1.873 1.873 0 0 0 1.945 8.93l-.319-.094c-.835-.246-.835-1.428 0-1.674l.319-.094A1.873 1.873 0 0 0 3.06 4.377l-.16-.292c-.415-.764.42-1.6 1.185-1.184l.292.159a1.873 1.873 0 0 0 2.692-1.115l.094-.319z"/>
-    </svg> 
-    Change the Metadata!
-</button>
-{:.text-center}
-
-## Create your own Metadata
-
-To create metadata compatible with this CollectionBuilder-Sheets instance the best way to get started is to make of copy of our template in Google Drive:
-
-[CollectionBuilder Metadata Template](https://docs.google.com/spreadsheets/d/1Uv9ytll0hysMOH1j-VL1lZx6PWvc1zf3L35sK_4IuzI/copy?usp=sharing){:.btn .btn-outline-primary}
-{:.text-center}
-
-Alternatively, you can [download the template CSV]({{ '/assets/metadata-template.csv' | relative_url }}) and work on your local machine.
-We suggest editing your CSV using [LibreOffice](https://www.libreoffice.org/) Calc, [OpenRefine](https://openrefine.org/), or Google Sheets (and do not suggest using Excel, since Excel's CSV output is not correctly formatted).
-
-Describe your items in your copy of the template, following the [Metadata Guidelines]({{ '/metadata.html' | relative_url }}). 
-
-Once you have items added you can test your metadata by clicking the "Change the Metadata" button above.
-
-## Learn More
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-Featured image by [JJ Ying on Unsplash](https://unsplash.com/photos/WmnsGyaFnCQ).
+<div class="alert alert-info shadow-sm p-4 my-5" role="alert">
+    <h3 class="alert-heading h4 font-weight-bold">About the Exhibit</h3>
+    <p class="mb-0">
+        Our digital exhibition focuses on photographs documenting the 1975 Speak Out! Charla! Bate-Papo! Contemporary Art and Literature in Latin America symposium and the Plural exhibition. We chose to include photographs of panel discussions, speakers, audiences, the reception, and exhibited artworks to show the distinct activities and people involved in the event. We wanted to show how the symposium brought people together with different perspectives on Latin American art and literature. Our exhibition is organized around three themes: literary criticism, art criticism, and the exhibited artworks. These themes help connect the discussions that took place during the symposium with the artworks presented in the exhibition.
+    We chose GitHub’s CollectionBuilder to present the 100 photographs and their historical context in an accessible digital format. This platform allows us to organize individual records into photographs and connect them to narratives explaining each theme. We hope to help visitors better understand the discussions surrounding Latin American cultural identity and artistic expression by presenting the photographs alongside contextual information. An important consideration in our curatorial decisions is that not every photograph provides enough information to confidently identify individuals, artworks, or the activities being documented. Instead of just making assumptions or presenting uncertain information as fact, we will use the symposium program, exhibition catalogue, and other available sources to provide additional context whenever possible. These decisions reflect our goal of making the photographs accessible but still recognize the limitations of the historical records. 
+    Our group’s understanding of the material was limited and shaped by accompanying contextual materials, including a catalog detailing some of the artwork present at the Plural exhibit and a program listing the panel speakers. Because we lacked substantial knowledge of the materials, additional research helped us better understand their significance, particularly for art historians and Latin American researchers. However, gaps may remain in how we present the materials, since we are not exhibiting the entire collection, but rather 100 preselected items. The 100 items were not preselected by our group; they were preselected by the Blanton Museum of Art's representative for this collection.
+    Initially, our group was tasked with creating metadata for items in the collection rather than digitizing the physical materials. We used a metadata schema based on the Blanton's eMuseum platform. After we created and quality-checked all metadata, we crosswalked it to fit the schema used by GitHub’s collection builder. Once uploaded to GitHub, we used the site’s tools to create an exhibit that followed our three themes: discussion, exhibition, and connection. We chose green, purple, blue, and orange as accent colors for our digital exhibit because they match the colors in the original Plural exhibit catalog.
+    </p>
+</div>
