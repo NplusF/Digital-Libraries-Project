@@ -25,13 +25,7 @@ title: Speak-Out! Contemporary Art and Literature in Latin America 1975
 tagline: A symposium of the greatest artists and authors of Latin America in the 1970s
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: |
-
- <p style="color: #1A0033; text-indent: 40px; margin-bottom: 1.5rem;">
-  This digital collection comprises 100 digitized black-and-white photographic negatives documenting the 1975 “Speak-Out! Charla! Bate-Papo! Contemporary Art and Literature in Latin America” symposium and its accompanying exhibition, “Plural: Artists of Latin America,” at the Blanton Museum of Art (formerly the University of Texas Art Museum) at the University of Texas at Austin. The Blanton Museum of Art holds the original photographs in its Speak Out! Symposium Collection, part of its Latin American Art Collection. Each image in our digital collection has item-level metadata, including a title, a description, and LCNAF-authorized names. The gallery and reception photographers are unidentified, and many attendees and artworks are unnamed. We described these without guessing, so gaps in the historical record stay visible.
-</p>
- 
-  </div>
+description:
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Matthew Aufiero
 
