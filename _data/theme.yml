@@ -119,3 +119,4 @@ base-font-family: "'Century Gothic', Futura, 'Avant Garde', sans-serif"
 #   arrow-left: arrow-left
 #   arrow-right: arrow-right
 #   arrow-down: arrow-down
+development-mode: false
