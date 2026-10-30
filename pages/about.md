@@ -3,10 +3,12 @@ title: About
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
-credits: true
+credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+
+{% include feature/jumbotron.html objectid="/assets/img/img20251009_14573919.jpg" %}
 
 <div class="alert alert-info shadow-sm p-4 my-5" role="alert">
     <h3 class="alert-heading h4 font-weight-bold">About the Exhibit</h3>
