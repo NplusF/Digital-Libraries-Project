@@ -2,3 +2,10 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+
+@import url('https://googleapis.com');
+
+.home-title {
+    font-family: 'Bebas Neue', sans-serif !important;
+    letter-spacing: 1.5px;
+}
