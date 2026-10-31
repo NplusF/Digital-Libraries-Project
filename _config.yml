@@ -27,7 +27,7 @@ tagline: A symposium of the greatest artists and authors of Latin America in the
 # this description might appear in search result lists, keep around 160 characters max
 description: "This digital collection documents the 1975 Speak-Out! Charla! Bate-Papo! symposium and its accompanying exhibition, Plural: Artists of Latin America, at the University of Texas at Austin."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Matthew Aufiero
+author: Matthew Aufiero, Kayla Hernandez, Alo Saenz, Alyssa Stanley
 
 ##########
 # COLLECTION SETTINGS
@@ -43,8 +43,8 @@ metadata-csv: assets/speakoutmetadata.csv
 # Site/Organization Branding 
 # 
 # Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "Blanton Museum of Art"
+organization-link: https://blantonmuseum.org
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
