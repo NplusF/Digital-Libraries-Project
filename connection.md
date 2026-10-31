@@ -5,9 +5,7 @@ permalink: /connection.html
 ---
 <div class="shadow-sm p-4 my-4" style="background-color: #E3F2FD; border-left: 6px solid #1976D2; border-radius: .25rem;">
 
-<h3 style="color: #0D47A1;">Explore the Plural: Artists of Latin America exhibition and the artworks presented.</h3>
-
-{% include feature/image.html objectid="img20251009_16371569" %}
+<h3 style="color: #0D47A1;">Explore the Plural: Artists of Latin America reception and the connections made.</h3>
 
 <p style="color: #17324D; text-indent: 30px; margin-bottom: 1.5rem;">
 	Finally, the theme of Connection uses the exhibition’s reception to explore the interactions between artists, critics, and panel speakers. Kazuya Sakai converses with Donald B. Goodall, Rodolfo Cardona the Chairman and Professor of the Department of Spanish and Portuguese at UT-Austin interacts with guests alongside Aracy Amaral, and attendees of all kinds interact and share the experience of the symposium and exhibition with each other. Even without the context of the spoken word, communication is visible, guests smiling at Mexican artist Helen Escobedo, Donald B. Goodall shaking the hands of attendees. The art itself remains visible in some shots, the direct subject of guest attention and conversation in some shots, the subject matter of the exhibition in perpetual conversation with all involved. Here, the worlds of art, criticism, and wider cultural understanding mix, and while the meetings present may not have the structure of the symposium proper, they bear the potential for Latin American artistic identity alongside the seeming inevitability of outside influence. 
