@@ -88,7 +88,8 @@ document.addEventListener("DOMContentLoaded", function () {
         const img = document.createElement("img");
         img.src = "{{ '/assets/img/' | relative_url }}" + id + ".jpg";
         img.alt = item.title || "";
-        img.className = "img-fluid w-100";
+        img.className = "img-fluid";
+        img.style.width = "75%"
         img.style.height = "auto";
 
         img.onerror = function() {
