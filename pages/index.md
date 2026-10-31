@@ -14,6 +14,5 @@ permalink: /
 	<p style="color: #1A0033;"> Existing resources document similar themes primarily through texts, such as the ICAA’s digital archives of primary sources and critical writings by Latin American artists and critics, or through objects, such as the Blanton’s online listing for Plural. This digital collection adds photographs of the symposium’s panels, gallery installations, and the reception, showcasing a visual representation of the debate and people behind those texts and objects.</p>
   <p style="color: #1A0033;"> Our exhibition is organized into three themes. Discussion (22 photographs by Julia Dawson) shows the symposium's literature and art-criticism panels and their audiences. Exhibition (56 photographs) shows the Plural galleries and the artworks on view. Connection (22 photographs) shows critics, artists, and panel speakers conversing at the exhibition reception. Together they trace one question: whether Latin American cultural expression should follow local or imported models, from debate to artistic practice, to the people who carried the conversation forward. </p>
 
-  </p>
 
 </div>
