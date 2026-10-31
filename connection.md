@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Connection
+title: Connections
 permalink: /connection.html
 ---
 <div class="shadow-sm p-4 my-4" style="background-color: #E3F2FD; border-left: 6px solid #1976D2; border-radius: .25rem;">
