@@ -1,15 +1,6 @@
-/* 
-    Nuclear option to permanently hide the CollectionBuilder-Sheets config popup
-*/
-
-#cbSetUpModal, .modal, .modal-backdrop {
+/* Hide only the CollectionBuilder metadata setup modal */
+#cbSetUpModal {
     display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
 }
 
-/* Re-enable page scrolling if the popup tries to lock the screen background */
-body, body.modal-open {
-    overflow: auto !important;
-    padding-right: 0 !important;
-}
+/* Keep normal Bootstrap modals working */
