@@ -71,7 +71,7 @@ metadata-csv: assets/speakoutmetadata.csv
 # (this is done automatically by gh-pages build)
 #
 # dev mode turns on ability to change metadata
-development-mode: false
+development-mode: true
 # Library directory location. This allows you to customize where the standard assets are found.
 # provide a relative path in this repository or full url 
 lib-assets: /assets/lib
