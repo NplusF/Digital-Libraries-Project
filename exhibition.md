@@ -7,12 +7,16 @@ permalink: /exhibition.html
 <div class="shadow-sm p-4 my-4" style="background-color: #FFF3E0; border-left: 6px solid #FF6F00; border-radius: .25rem;">
 
 <h3 style="color: #FF6F00;"> Explore the Plural: Artists of Latin America exhibition
-and the artworks presented. </h3>
+and the artworks presented.</h3>
 
 <p style="color: #1B3320; text-indent: 30px; margin-bottom: 1.5rem;">
 The theme with the most items, Exhibition, covers the Plural galleries and the artworks they display. The Exhibition’s artworks (arranged into sections by artist with the artist’s name and country of origin as the title of each gallery) are framed against massive white walls, by themselves or alongside others, sometimes with the works of the other artists visible in the background, but always with the greater context of the exhibition in mind. The artwork represents a dozen painters and sculptors originating or working in Latin America, all of whom were selected by Plural Editor-in-Chief Kazuya Sakai and UT-Austin visiting Professor Damián Bayón. This group includes sculptors and painters, most originating in Latin America, but with Brian Nissen born in England, Roger von Gunten from Switzerland, and Vicente Rojo from Spain (the art criticism panel places Spain in the same cultural and critical set with Latin American countries, but Rojo’s presence still demonstrates outside influence), all living and working in Mexico. The choices represent a region pushing to define its own identity in terms of art as well as art criticism, yet with the influence of the outside world (and Europe in particular) never far away. The same story is visible stylistically, with local cultural influences and art movements like Neo-Concrete Constructivism blending with global styles like Kinetic Art, Cubism, and Abstraction.
 </p>
 </div>
+<div class="container my-5">
+    <div class="row justify-content-center">
+        <div class="exh-md-10">
+            <div id="discussion-gallery"></div>        
     </div>
   </div>
 </div>
