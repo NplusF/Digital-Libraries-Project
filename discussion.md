@@ -29,21 +29,17 @@ Meanwhile, at the panel "With What Operative Models, Local and Imported, Does th
         {% assign item = site.data.speakoutmetadata | where: "objectid", photo_id | first %}
 
         {% if item %}
-          <div class="mb-5">
-            <img src="{{ '/assets/img/' | append: photo_id | append: '.jpg' | relative_url }}"
+          <div class="text center mb-5">
+            <img 
+            src="{{ site.baseurl }}'/assets/img/{{ photo_id }}.jpg"
                  class="img-fluid w-100"
                  alt="{{ item.title }}">
+                 style="display: block; height: auto;"
+
+            >
 
             <h4 class="text-center mt-3">
               {{ item.title }}
-            </h4>
+            <h4 class="mt-3">{{ item.title }}</h4>
           </div>
-        {% endif %}
-
-      {% endfor %}
-
-    </div>
-  </div>
-</div>
-
-</div>
+        
