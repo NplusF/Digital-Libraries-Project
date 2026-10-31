@@ -7,7 +7,7 @@ permalink: /exhibition.html
 <div class="shadow-sm p-4 my-4" style="background-color: #FFF3E0; border-left: 6px solid #FF6F00; border-radius: .25rem;">
 
 <h3 style="color: #FF6F00;"> Explore the Plural: Artists of Latin America exhibition
-and the artworks presented.
+and the artworks presented. </h3>
 
 <p style="color: #1B3320; text-indent: 30px; margin-bottom: 1.5rem;">
 INSERT PARAGRAPH 1
@@ -16,6 +16,7 @@ INSERT PARAGRAPH 1
 <p style="color: #1B3320; text-indent: 30px; margin-bottom: 1.5rem;">
 INSERT PARAGRAPH 2
 </p>
+</div>
 <div class="container my-5">
   <div class="row justify-content-center">
     <div class="col-md-10">
