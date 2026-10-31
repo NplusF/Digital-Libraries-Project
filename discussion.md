@@ -18,3 +18,57 @@ Meanwhile, at the panel "With What Operative Models, Local and Imported, Does th
 </p>
 
 </div>
+
+<div class="container my-5">
+
+  <div class="row justify-content-center">
+    <div class="col-md-10">
+
+      <img src="{{ '/assets/img/img20251020_13271537.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_13331931.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_13390300.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_13463883.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_13472358.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_13480757.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_13484992.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_13493301.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_13501691.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_13510163.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_13522728.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_13543929.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_14012705.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_14020918.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_14081298.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_14085738.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_14094278.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_14125114.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_14133344.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_14141474.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_15123416.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+      <img src="{{ '/assets/img/img20251020_15193125.jpg' | relative_url }}" class="img-fluid w-100 mb-4" alt="">
+
+    </div>
+  </div>
+
+</div>
