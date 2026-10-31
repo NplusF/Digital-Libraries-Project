@@ -10,16 +10,8 @@ permalink: /exhibition.html
 and the artworks presented. </h3>
 
 <p style="color: #1B3320; text-indent: 30px; margin-bottom: 1.5rem;">
-INSERT PARAGRAPH 1
+Our exhibition is organized into three themes. Discussion (22 photographs by Julia Dawson) shows the symposium's literature and art-criticism panels and their audiences. Exhibition (56 photographs) shows the Plural galleries and the artworks on view. Connections (22 photographs) shows critics, artists, and panel speakers conversing at the exhibition reception. Together they trace one question: whether Latin American cultural expression should follow local or imported models, from debate to artistic practice, to the people who carried the conversation forward.
 </p>
-
-<p style="color: #1B3320; text-indent: 30px; margin-bottom: 1.5rem;">
-INSERT PARAGRAPH 2
-</p>
-</div>
-<div class="container my-5">
-  <div class="row justify-content-center">
-    <div class="col-md-10">
 
       <div id="exhibition-gallery"></div>
 
