@@ -20,29 +20,30 @@ Meanwhile, at the panel "With What Operative Models, Local and Imported, Does th
 </div>
 
 <div class="container my-5">
-
   <div class="row justify-content-center">
     <div class="col-md-10">
 
-     <div class="container my-5">
-  <div class="row justify-content-center">
-    <div class="col-md-10">
+      {% assign photo_ids = "img20251020_13271537,img20251020_13331931,img20251020_13390300,img20251020_13463883,img20251020_13472358,img20251020_13480757,img20251020_13484992,img20251020_13493301,img20251020_13501691,img20251020_13510163,img20251020_13522728,img20251020_13543929,img20251020_14012705,img20251020_14020918,img20251020_14081298,img20251020_14085738,img20251020_14094278,img20251020_14125114,img20251020_14133344,img20251020_14141474,img20251020_15123416,img20251020_15193125" | split: "," %}
 
-      {% assign photos = "img20251020_13271537,img20251020_13331931,img20251020_13390300,img20251020_13463883,img20251020_13472358,img20251020_13480757,img20251020_13484992,img20251020_13493301,img20251020_13501691,img20251020_13510163,img20251020_13522728,img20251020_13543929,img20251020_14012705,img20251020_14020918,img20251020_14081298,img20251020_14085738,img20251020_14094278,img20251020_14125114,img20251020_14133344,img20251020_14141474,img20251020_15123416,img20251020_15193125" | split: "," %}
+      {% for photo_id in photo_ids %}
+        {% assign item = site.data.speakoutmetadata | where: "objectid", photo_id | first %}
 
-      {% for photo in photos %}
-        <div class="mb-5">
-          <img src="{{ '/assets/img/' | append: photo | append: '.jpg' | relative_url }}"
-               class="img-fluid w-100"
-               alt="{{ photo }}">
-          <p class="text-center mt-2">{{ photo }}</p>
-        </div>
+        {% if item %}
+          <div class="mb-5">
+            <img src="{{ '/assets/img/' | append: photo_id | append: '.jpg' | relative_url }}"
+                 class="img-fluid w-100"
+                 alt="{{ item.title }}">
+
+            <h4 class="text-center mt-3">
+              {{ item.title }}
+            </h4>
+          </div>
+        {% endif %}
+
       {% endfor %}
 
     </div>
- </div>
-</div>
-      
   </div>
+</div>
 
 </div>
