@@ -1,4 +1,15 @@
 /* 
-    Put your custom SCSS here! 
-    This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
+    Nuclear option to permanently hide the CollectionBuilder-Sheets config popup
 */
+
+#cbSetUpModal, .modal, .modal-backdrop {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+}
+
+/* Re-enable page scrolling if the popup tries to lock the screen background */
+body, body.modal-open {
+    overflow: auto !important;
+    padding-right: 0 !important;
+}
